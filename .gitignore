@@ -26,7 +26,7 @@ yarn-error.log*
 firebase-debug.log
 firebase/.cache/
 firebase/.firebaserc
-firebase.json
+firebase/.firebase.json
 
 # Node modules
 node_modules/
